@@ -26,5 +26,6 @@
 ## Liga hipoeutetoide
 * composição com menos de 0, 76% de carbono
 * **austenita** 
-* 
+* açõ hipoeutetoide é formado por perlita e ferrita pré-eutetoide
+* aço hipereutetoide é formado por perlita e cementita pro-etetoide
 -----
