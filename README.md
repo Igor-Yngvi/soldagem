@@ -13,7 +13,7 @@
 * cementita consegue manter até 6,14 % de carbono em solução solida
   #
   
-  ### Ligas eutetoide
+  ## Ligas eutetoide
 * açõ que tem exatamente 0,76% de carbono, especificamnete 0,76%
 * é formada por uma estrutura de perlita, sendo 100% de perlita, sendo perlitico
 * acima de 720 graus ceucios tem a estrutura gama, a austemita austemitizar o material 
@@ -21,4 +21,10 @@
 * micrografia, uma foto tirada em um microscópio
 * grãos de perlita = colonia de perlita
 * a perlita é intermediaria entre a ferita e a cementita
+#
+
+## Liga hipoeutetoide
+* composição com menos de 0, 76% de carbono
+* **austenita** 
+* 
 -----
