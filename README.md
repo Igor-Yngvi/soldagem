@@ -28,4 +28,10 @@
 * **austenita** 
 * açõ hipoeutetoide é formado por perlita e ferrita pré-eutetoide
 * aço hipereutetoide é formado por perlita e cementita pro-etetoide
+#
+
+## bainita
+* menos dura que a martecita 
+* micro estrutura intermediaria
+* são mais finas, com particulas menores de ferrita e cementita essa é a diferença dessa microestrutura
 -----
